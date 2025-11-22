@@ -1,0 +1,108 @@
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe.config
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Form1.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Properties.Resources.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Main.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Customer.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Account.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Transaction.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Loan.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Employee.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.dashboard.resources
+C:\Users\user\Desktop\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Registration.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe.config
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Account.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Customer.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.dashboard.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Employee.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Main.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Properties.Resources.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Registration.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Transaction.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Login.resources
+C:\Users\user\Desktop\project\c#\bank mngt\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Loans.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe.config
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Account.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Customer.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Dashboard.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Employee.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Loans.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Login.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Main.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Properties.Resources.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Registration.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Transaction.resources
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\project\c#\bank mngt orig\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe.config
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Account.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Customer.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Dashboard.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Employee.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Loans.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Login.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Main.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Properties.Resources.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Registration.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Transaction.resources
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\project\c#\bank\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe.config
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.pdb
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Account.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Customer.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Dashboard.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Employee.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Loans.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Login.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Main.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Properties.Resources.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Registration.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Transaction.resources
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.exe
+C:\Users\user\Desktop\PRoglar\Dashkynov\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.pdb
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe.config
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.exe
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\bin\Debug\Bank MNGMT.pdb
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.AssemblyReference.cache
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Account.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Customer.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Dashboard.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Employee.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Loans.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Login.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Main.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Properties.Resources.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Registration.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank_MNGMT.Transaction.resources
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.GenerateResource.cache
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.csproj.CoreCompileInputs.cache
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.exe
+E:\project\c#\bank managing C# and SQL (WinForm)\Bank MNGMT\Bank MNGMT\obj\Debug\Bank MNGMT.pdb
