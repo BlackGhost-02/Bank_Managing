@@ -2,8 +2,7 @@
 
 
 <strong>Created By: Ghost</strong><br>
-project level 10/1
-
+first project i've ever created
 
 <img width="750" height="450" alt="Screenshot 2025-11-23 152532" src="https://github.com/user-attachments/assets/5e8f1658-315c-4438-93c7-cb26ecd4f456" />
 <br>
